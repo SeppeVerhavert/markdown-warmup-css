@@ -51,3 +51,13 @@ body {
     display: contents;
     text-align: center;
   }
+  ul {
+    text-align: left;
+  }
+  ol {
+    text-align: left;
+  }
+  li {
+    color: rgb(97, 97, 97);
+    text-align: left;
+  }
