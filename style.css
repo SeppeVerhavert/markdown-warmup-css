@@ -3,10 +3,13 @@ body {
   background-color: white
     }
   h1 {
-    color: black;
+      color: black;
     text-align: center;
   }
   h2 {
+    background-color:rgb(97, 97, 97);
+    color: rgb(255, 255, 255);
+    padding: 40px;
     text-align: center;
   }
   img {
@@ -27,9 +30,19 @@ body {
   tr:hover {
     background-color: #f5f5f5;
     }
-    tr:nth-child(even) {
+  tr:nth-child(even) {
       background-color: #f2f2f2;
     }
-    p {
+  p {
     background-color: DodgerBlue;
+    text-align: center;
+    }
+  #quote01 {
+    background-color: lightblue;
+    color: black;
+    padding: 40px;
+    text-align: center;
+  }
+  .a {
+    text-align: center;
   }
