@@ -1,9 +1,16 @@
 body {
-    background-color: powderblue;
+    background-color: white
+  }
+  body {
+    background-image: url("paper.gif");
   }
   h1 {
-    color: blue;
+    color: black;
+  }
+  table {
+    border-style: 1px solid ;
+    border-color: grey ;
   }
   p {
-    color: red;
+    background-color: DodgerBlue;
   }
