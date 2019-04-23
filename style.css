@@ -43,6 +43,11 @@ body {
     padding: 40px;
     text-align: center;
   }
-  .a {
+  .link {
+    text-align: center;
+}
+  .link {
+    color: red;
+    display: contents;
     text-align: center;
   }
