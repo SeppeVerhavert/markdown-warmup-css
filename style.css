@@ -1,15 +1,12 @@
 body {
     background-color: white
-  }
-  body {
-    background-image: url("paper.gif");
-  }
+}
   h1 {
     color: black;
+    text-align: center;
   }
-  table {
-    border-style: 1px solid ;
-    border-color: grey ;
+  table, th, td {
+    border: 2px solid grey;
   }
   p {
     background-color: DodgerBlue;
